@@ -1,0 +1,13 @@
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\bin\Debug\netcoreapp3.1\Q.50.exe
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\bin\Debug\netcoreapp3.1\Q.50.deps.json
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\bin\Debug\netcoreapp3.1\Q.50.runtimeconfig.json
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\bin\Debug\netcoreapp3.1\Q.50.runtimeconfig.dev.json
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\bin\Debug\netcoreapp3.1\Q.50.dll
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\bin\Debug\netcoreapp3.1\Q.50.pdb
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\obj\Debug\netcoreapp3.1\Q.50.csprojAssemblyReference.cache
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\obj\Debug\netcoreapp3.1\Q.50.AssemblyInfoInputs.cache
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\obj\Debug\netcoreapp3.1\Q.50.AssemblyInfo.cs
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\obj\Debug\netcoreapp3.1\Q.50.csproj.CoreCompileInputs.cache
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\obj\Debug\netcoreapp3.1\Q.50.dll
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\obj\Debug\netcoreapp3.1\Q.50.pdb
+C:\Users\Syed Ahmed\Desktop\Codes\Q.50\obj\Debug\netcoreapp3.1\Q.50.genruntimeconfig.cache
